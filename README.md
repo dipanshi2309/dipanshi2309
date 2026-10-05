@@ -1,42 +1,59 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20&height=220&section=header&text=Dipanshi&fontSize=52&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=19&descAlignY=58&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <!-- Header Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20&height=220&section=header&text=Dipanshi%20Srivastava&fontSize=50&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descSize=19&descAlignY=58&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/dipanshi2309">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&height=50&lines=%E2%9A%A1+Architecting+Agentic+AI+%26+Dual-Agent+RAG;%F0%9F%A4%96+Building+Human-in-the-Loop+Autonomous+DevOps;%F0%9F%8C%90+Engineering+Full-Stack+AI+Web+Platforms;%F0%9F%8C%B1+Deep+Learning+%26+Computer+Vision+Innovations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=680&height=50&lines=%E2%9A%A1+Architecting+Agentic+AI+%26+Dual-Agent+RAG;%F0%9F%A4%96+Building+Human-in-the-Loop+Autonomous+DevOps;%F0%9F%8C%90+Engineering+Full-Stack+AI+Web+Platforms;%F0%9F%8C%B1+Deep+Learning+%26+Computer+Vision+Innovations" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Metric Badges -->
+  <!-- Metric Badges & Status -->
   <p align="center">
     <a href="https://github.com/dipanshi2309?tab=followers"><img src="https://img.shields.io/github/followers/dipanshi2309?label=Followers&logo=github&style=for-the-badge&color=00f2fe&logoColor=ffffff&labelColor=0d1117" alt="GitHub Followers" /></a>
     <a href="https://github.com/dipanshi2309"><img src="https://komarev.com/ghpvc/?username=dipanshi2309&label=Profile%20Views&color=4facfe&style=for-the-badge&labelColor=0d1117" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/Specialization-Agentic%20AI%20%7C%20RAG-7928CA?style=for-the-badge&labelColor=0d1117" alt="Specialization" />
+    <img src="https://img.shields.io/badge/Status-Building%20Agentic%20AI-7928CA?style=for-the-badge&labelColor=0d1117" alt="Current Status" />
+    <img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Roles-success?style=for-the-badge&labelColor=0d1117" alt="Availability" />
   </p>
 </div>
 
-<hr/>
+---
 
-### 👨‍💻 Quick Specs
+### 💫 About Me & Current Focus
+
+```zsh
+❯ neofetch --dipanshi
+```
+
+- 🔭 **Currently Building**: Next-gen **Agentic RAG Knowledge Systems** & **Human-in-the-Loop DevOps Assistants**.
+- 🧠 **Research & Exploration**: Multi-agent coordination swarms, autonomous LLM self-verification, and zero-hallucination pipelines.
+- 💡 **Engineering Philosophy**: *"Intelligent automation is powerful; intelligent automation with transparent human oversight is invincible."*
+- 🎯 **Tech Stack Focus**: Python, Google Gemini API, PyTorch, React.js, Node.js, Express, MongoDB, Docker.
+- 💬 **Ask Me About**: Dual-Agent Architectures, Vector Search & RAG, Computer Vision (CNNs), Placement Prep Platforms.
+- 📫 **Direct Reach**: [dipanshisrivastava10@gmail.com](mailto:dipanshisrivastava10@gmail.com)
+
+<details>
+<summary>⚡ <b>Click to View Terminal Config [dipanshi.config.json]</b></summary>
 
 ```json
 {
   "developer": {
     "name": "Dipanshi Srivastava",
-    "alias": "dipanshi2309",
-    "core_focus": [
-      "Agentic AI & Dual-Agent Orchestration",
-      "Retrieval-Augmented Generation (RAG) with Gemini API",
-      "Human-in-the-Loop DevOps & Production Guardrails",
-      "Full-Stack AI Application Engineering (MERN + Python)"
+    "handle": "@dipanshi2309",
+    "roles": ["AI/ML Engineer", "Agentic Systems Developer", "Full-Stack AI Specialist"],
+    "core_specializations": [
+      "Dual-Agent RAG Orchestration (Gemini API)",
+      "Human-in-the-Loop DevOps Automation",
+      "Full-Stack Web Architecture (MERN + FastAPI)",
+      "Deep Learning & Computer Vision (Plant Pathology Classification)",
+      "NLP Text Mining & Sentiment Classification"
     ],
-    "key_strengths": ["LLM Prompt & Workflow Architecture", "Deep Learning / Computer Vision", "NLP Classification"],
-    "philosophy": "Bridging autonomous intelligent pipelines with transparent human oversight."
+    "interests": ["Autonomous Agents", "Cloud Infrastructure", "AI Safety & Guardrails"]
   }
 }
 ```
+</details>
 
 ---
 
@@ -139,7 +156,16 @@
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal & Ecosystem</h2>
+<h2 align="center">🛠️ Technical Arsenal & Skills Matrix</h2>
+
+<!-- Glowing Skill Icons Bar -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,fastapi,flask,mongodb,postgres,docker,git,github,vscode,postman,tensorflow,pytorch,linux&perline=9" alt="Skill Icons" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -200,9 +226,14 @@
 
 ---
 
-<h2 align="center">📈 GitHub Telemetry & Insights</h2>
+<h2 align="center">📈 GitHub Telemetry & Activity</h2>
 
 <div align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshi2309&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td>
@@ -236,7 +267,7 @@
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <div align="center">
-  <p>I'm always open to discussing <b>Agentic AI pipelines, Research collaborations, GenAI innovations, or Full-Stack AI engineering</b>!</p>
+  <p>I'm always excited to collaborate on <b>Agentic AI pipelines, Research, GenAI products, or Full-Stack AI engineering</b>!</p>
   
   <p>
     <a href="https://www.linkedin.com/" target="_blank">
